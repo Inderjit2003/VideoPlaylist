@@ -1,0 +1,13 @@
+.video{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      background-color: #d3d3d3;
+}
+.tr:hover {background-color: rgba(241, 199, 8, 0.94);}
+
+.h{
+      color: #fffcfc;
+      font-size: 35px;
+}
